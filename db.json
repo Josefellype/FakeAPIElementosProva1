@@ -1,0 +1,29 @@
+{
+  "nomesElementos": [
+    {"nome": "Hidrogênio"}, 
+    {"nome": "Lítio"}, 
+    {"nome": "Sódio"}, 
+    {"nome": "Potássio"}, 
+    {"nome": "Rubídio"}, 
+    {"nome": "Césio"},
+    {"nome": "Frâncio"}
+  ],
+  "simbolosElementos":[
+    {"simbolo": "H"},
+    {"simbolo": Li"},
+    {"simbolo": "Na"},
+    {"simbolo": "K"},
+    {"simbolo": "Rb"},
+    {"simbolo": "Cs"},
+    {"simbolo": "Fr"}
+  ],
+  "numerosElementos": [
+    {"num": 1},
+    {"num": 3},
+    {"num": 11},
+    {"num": 19},
+    {"num": 37},
+    {"num": 55},
+    {"num": 87}
+  ]
+}
